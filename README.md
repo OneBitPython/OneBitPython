@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onebitpython&label=Profile%20views&color=0e75b6&style=flat" alt="onebitpython" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onebitpython" alt="onebitpython" /></a> </p>
-
 - 🔭 I’m currently working on [ExploreMusic](https://github.com/OneBitPython/ExploreMusic)
 
 - 🌱 I’m currently learning **C++ and machine learning**
@@ -19,7 +17,7 @@
 <p align="left">
 <a href="https://www.codechef.com/users/onebit1024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="onebit1024" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/onebitananth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="onebitananth" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/onebit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="onebit" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ananthramtennis12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ananthramtennis12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onebitpython&show_icons=true&locale=en&layout=compact" alt="onebitpython" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onebitpython&show_icons=true&locale=en" alt="onebitpython" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onebitpython&" alt="onebitpython" /></p>
