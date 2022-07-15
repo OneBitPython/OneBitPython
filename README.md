@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onebitpython&label=Profile%20views&color=0e75b6&style=flat" alt="onebitpython" /> </p>
 
-- 🔭 I’m currently working on [ExploreMusic](https://github.com/OneBitPython/ExploreMusic)
+- 🔭 I’m currently working on [ExploreMusic](https://github.com/OneBitPython/Codeforces)
 
-- 🌱 I’m currently learning **C++ and machine learning**
+- 🌱 I’m currently practicing **Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OneBitPython](https://github.com/OneBitPython)
 
 - 📫 How to reach me **Discord : OneBit#4111**
 
-- ⚡ Fun fact **I don't like web dev :pepeshrug:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
